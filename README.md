@@ -7,25 +7,25 @@
    state/nilai dan behavior/prilaku sebuah obyek, sedangkan obyek merupakan perwujutan dari sebuah class dimana object memiliki     
    state/nilai yang sudah teriisi.
 
-2. Jelaskan alasan warna dan tipe mesin dapat menjadi atribut dari objek mobil!
+3. Jelaskan alasan warna dan tipe mesin dapat menjadi atribut dari objek mobil!
    Jawaban : 
    Karena warna dan tipe mesin merupakan bagian atribut dari sebuah obyek mobil
 
-3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!
+5. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!
    Jawaban :
    pbo memiliki kelebiahan dari pemrograman struktural salah satunya pbo menganut konsep DRY (Dont Repeat Your Self)
 
-4. Apakah diperbolehkan melakukan pendefinisian dua buah atribut dalam satu baris kode seperti “public String nama,alamat;”?
+7. Apakah diperbolehkan melakukan pendefinisian dua buah atribut dalam satu baris kode seperti “public String nama,alamat;”?
    Jawaban : 
    diperbolehkan karena variable nama dan alamat memiliki tipe data yang sama yaitu String
 
-5. Pada class SepedaGunung, jelaskan alasan atribut merk, kecepatan, dan gear tidak lagi ditulis di dalam class tersebut! 
-   Jawaban : 
+9. Pada class SepedaGunung, jelaskan alasan atribut merk, kecepatan, dan gear tidak lagi ditulis di dalam class tersebut!
+    Jawaban : 
    pada class SepedaGunung menggunakan methode inheritance(Turunan) dari class Sepeda sehingga atribut diatas tidak perlu
    dituliaskan lagi didalam class SpedaGunung
 
 
-6. Tugas Praktikum
+11. Tugas Praktikum
 
 1. Lakukan langkah-langkah berikut supaya tugas praktikum yang dikerjakan tersistematis:
 	a. Foto 4 buah objek di sekitar kalian dengan 2 objek di antaranya merupakan objek yang
