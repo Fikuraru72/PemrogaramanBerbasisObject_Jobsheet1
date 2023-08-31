@@ -33,8 +33,10 @@
 	   belajar sehingga diketahui meja ruang tamu dan meja belajar mewarisi objek meja!
 		1. handphone
 		2. Tabloit
-		3. Ac
-		4. Karater Game
+   		3. SmartWatch
+   		4. Ac
+		5. Karater Game
+   
 	b. Lakukan pengamatan terhadap 4 objek tersebut untuk menentukan atribut dan methodnya!
 		1. handphone
     		 Atribut
@@ -76,6 +78,8 @@
 		   - menyerang
 		   - bertahan
 		   - Informasi
+
+   
 c. Berdasarkan 4 buah objek tersebut, buat class nya dalam Bahasa pemrograman Java!
 d. Perlu diperhatikan bahwa terdapat dua class hasil pewarisan sehingga perlu menambah satu
    class baru sebagai class yang mewarisi dua class tersebut!
