@@ -37,59 +37,61 @@
 		4. Karater Game
 	b. Lakukan pengamatan terhadap 4 objek tersebut untuk menentukan atribut dan methodnya!
 		1. handphone
-     Atribut
+    		 Atribut
 		   - merek
 		   - noHanphone
 		   - email
-      Method
+    		  Method
 		   - telphone 
 		   - kirim email
-       - Informasi
-
+   		   - Informasi
 		2. Tabloit
-     Atribut
-		   - stylus pen
-			
-		   - Menggambar
-       - Informasi
-
-   3.SmartWatch
-     Atribut
-      -SensorJantung
-
-     Method
-      - Deteksi Kecepatan detak Jantung
-      - Informasi
-
-		3. Alarm Kebakaran
-     Atribut 
+         	 Atribut
+	          - stylus pen
+		 Method
+   		  - Menggambar
+   		  - Informasi
+	       3.SmartWatch
+                 Atribut
+                  -SensorJantung
+		 Method
+        	  - Deteksi Kecepatan detak Jantung
+    		  - Informasi
+                4. Alarm Kebakaran
+   		  Atribut 
 		   - sensor asap
-		   - sensor api 
-
-     Method
+		   - sensor api
+   		  Method
 		   - deteksi api & asap 
 		   - alarm 
-       - Informasi
+          	   - Informasi
 		   - memadakan 
-
-		3. Karater Game
-     Atribut
+   		3. Karater Game
+     	          Atribut
 		   - name
 		   - atk
 		   - deff
-       - Informasi
-		   - artefak
-    Method
+    	       	   - artefak
+   		  Method
 		   - menyerang
 		   - bertahan
+		   - Informasi
+c. Berdasarkan 4 buah objek tersebut, buat class nya dalam Bahasa pemrograman Java!
+d. Perlu diperhatikan bahwa terdapat dua class hasil pewarisan sehingga perlu menambah satu
+   class baru sebagai class yang mewarisi dua class tersebut!
+e. Tambahkan dua atribut untuk setiap class!
+f. Tambahkan tiga method untuk setiap classtermasuk method cetak informasi!
+g. Tambahkan satu class Demo sebagai main!
+h. Instansiasikan satu buah objek untuk setiap class!
+i. Terapkan setiap method untuk setiap objek yang dibuat!
+j. Contoh yang telah disebutkan pada poin 1.a tidak diperbolehkan dipakai dalam pengerjaan
+   tugas praktikum ini!
+	
 
-	c. Berdasarkan 4 buah objek tersebut, buat class nya dalam Bahasa pemrograman Java!
-	d. Perlu diperhatikan bahwa terdapat dua class hasil pewarisan sehingga perlu menambah satu
-	   class baru sebagai class yang mewarisi dua class tersebut!
-	e. Tambahkan dua atribut untuk setiap class!
-	f. Tambahkan tiga method untuk setiap classtermasuk method cetak informasi!
-	g. Tambahkan satu class Demo sebagai main!
-	h. Instansiasikan satu buah objek untuk setiap class!
-	i. Terapkan setiap method untuk setiap objek yang dibuat!
-	j. Contoh yang telah disebutkan pada poin 1.a tidak diperbolehkan dipakai dalam pengerjaan
-	   tugas praktikum ini!
+  
+
+		
+
+		
+
+	
